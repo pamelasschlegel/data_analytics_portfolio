@@ -3,8 +3,8 @@ This repository contains projects and visualizations from the Data Science & Ana
 
 <img src="https://github.com/wiazur/data-analytics-portfolio/blob/main/hackeru-logo.png" width="150"/>
 
-     ## SQL
+## SQL
      
-     ## Statistics
+## Statistics
      
-     ## Visual Communications
+## Visual Communications
